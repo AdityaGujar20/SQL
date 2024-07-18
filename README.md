@@ -11,7 +11,7 @@
 ### DQL (Data Query Language)
 * SELECT
 
-### DCL (Data Manipulation Language)
+### DML (Data Manipulation Language)
 * INSERT
 * UPDATE
 * DELETE
